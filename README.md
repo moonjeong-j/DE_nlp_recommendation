@@ -20,7 +20,7 @@
     - sklearn의 cosine_similarity로 코사인 유사도를 구하여 리뷰텍스트 분석
     - 유저가 keyword를 입력하면 가장 유사도가 높은 레스토랑(음식점 or 카페)가 나오도록 모델링
 - 대시보드 
-    - metabase를 이용, 맛집 데이터 분석에 대한 통계정보 제시
+    - metabase를 이용, 맛집 데이터에 대한 통계분석 정보 제시
 - Front end
     - Flask api
     
